@@ -19,7 +19,7 @@ This was a great challenge to jump in and get the basics of HTML and CSS.
 
 ### Screenshot
 
-![](qr-code-component-main\Screenshot 2023-03-08 225655.png)
+![](./qr-code-component-main\Screenshot 2023-03-08 225655.png)
 
 ### Links
 
